@@ -4,7 +4,8 @@
 
 👋 Hey there! I'm Md Parvej, your go-to MERN maestro. I specialize in weaving web dreams using MongoDB, Express.js, React.js, and Node.js. Passionate about problem-solving, I dance with open source and relish continuous learning. Let's team up and cook up some digital delights! 💻✨
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs,nodejs,express,mongodb,firebase,redux,netlify,vercel,git,github,postman,)](https://skillicons.dev)
 
 - 🔭 I’m currently working on this page. 
 
